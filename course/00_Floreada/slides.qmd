@@ -26,7 +26,7 @@ For this course, we are adamant about staying neutral in regards to both commerc
 
 Fortunately, for showing how to use this [CytoML](https://www.bioconductor.org/packages/release/bioc/html/CytoML.html) functionality, we can use [Floreada.io](https://floreada.io/). It is a simple (but free) web-based analysis platform that can be used to draw manual gates for your .fcs files of interest. These can then be saved as Floreada workspaces for later use. We typically recommend it to users from labs that do flow experiments infrequently. Fortunately thanks to the hard work of its [developers](https://floreada.io/about), it can also save the gated files as [FlowJo](https://flowjo.com/flowjo10/download) v10 .wsp files, which with a small workaround become usable within the [CytoML](https://www.bioconductor.org/packages/release/bioc/html/CytoML.html) pipeline.
 
-To facilitate this, we will provide a small walk-through of how to use it for those who want to create a .wsp with their own .fcs files for [Week 5](https://umgccfcss.github.io/CytometryInR/Schedule#gating-sets).
+To facilitate this, we will provide a small walk-through of how to use it for those who want to create a .wsp with their own .fcs files for [Week 5](https://umgcccfcsr.github.io/CytometryInR/Schedule#gating-sets).
 :::
 
 # Walk-through

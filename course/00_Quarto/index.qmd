@@ -13,6 +13,10 @@ toc-depth: 4
 [![AGPL-3.0](https://img.shields.io/badge/license-AGPLv3-blue)](https://www.gnu.org/licenses/agpl-3.0.en.html) [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 :::
 
+For screen-shot slides, click [here](/course/00_Quarto/slides.qmd)
+
+For the YouTube narration, click [here](https://www.youtube.com/@CytometryInR)
+
 # Background
 
 In the [previous section](/course/00_Git/index.qmd), we briefly introduced Quarto Markdown Documents (.qmd) while working our way through version control concepts. Since we will be using .qmd files extensively throughout this course, this section will explore how we can build on these concepts to modify these files to create a variety of outputs (ranging from Word documents, pdfs, html webpages). We will also take a look at how to use code-chunk arguments to control what code is run or displayed within. 

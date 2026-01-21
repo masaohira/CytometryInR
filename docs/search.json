@@ -733,6 +733,18 @@
     ]
   },
   {
+    "objectID": "course/00_Quarto/index.html",
+    "href": "course/00_Quarto/index.html",
+    "title": "Introduction to Quarto",
+    "section": "",
+    "text": "For screen-shot slides, click here\nFor the YouTube narration, click here",
+    "crumbs": [
+      "About",
+      "Getting Started",
+      "00 - Quarto"
+    ]
+  },
+  {
     "objectID": "course/00_Quarto/index.html#renderpreview",
     "href": "course/00_Quarto/index.html#renderpreview",
     "title": "Introduction to Quarto",

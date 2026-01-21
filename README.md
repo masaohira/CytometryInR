@@ -6,13 +6,15 @@ We are excited that so many individuals worldwide have chosen to take part, and 
 
 ![](/images/WorldwideSignups.png){width=100%}
 
+Click here to go to our [Course Website](https://umgcccfcsr.github.io/CytometryInR)
+
 # Participating
 
 The course will start the first week of February, with Week #1 resources being released  on Sunday, February 1st at 2200 EST (Monday 0300 GMT+0). See below for additional details.
 
 ## Resources
 
-The pre-course learning materials are now [available]([/course/00_GitHub/index.qmd](https://umgcccfcsr.github.io/CytometryInR/course/00_GitHub/) , providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
+The pre-course learning materials are now [available](https://umgcccfcsr.github.io/CytometryInR/course/00_GitHub/) , providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
 
 Narrated versions of the walk through materials will be available starting next week via [YouTube](https://www.youtube.com/@CytometryInR)
 

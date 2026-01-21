@@ -12,7 +12,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "Course will start week of February 1st. Workstation setup tutorials are now available."
+    content: "Course starts week of February 1st. Workstation setup tutorials are now available. See Email for Details."
     type: info
     position: below-navbar 
   page-navigation: true 
